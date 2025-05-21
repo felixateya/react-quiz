@@ -140,8 +140,7 @@ const initialState = {
       correctOption: 3,
       points: 20
     }
-  ]
-},
+  ],
 
   // Loading, error, ready, active, finished
   status: "loading",
